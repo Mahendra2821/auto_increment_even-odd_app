@@ -1,0 +1,21 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  width: 400px;
+  border-radius: 10px;
+  height: 400px;
+}
+.button {
+  height: 30px;
+  width: 120px;
+}
